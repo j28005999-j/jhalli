@@ -3,7 +3,7 @@ print("welcome to cloud kitchen")
 print("we have following itmes in cloud kitchan")
 print(
 "press 1 for  paratha ₹40/2piece",
-"press 2 for mango juice ₹50/per piece",
+"press 2 for mango juice ₹50/per glass",
 "press 3 for rajma chawal ₹70/per piece",
 "press 4 for noodles ₹60/per plate .")
 print("choose from the above list and press the number")
